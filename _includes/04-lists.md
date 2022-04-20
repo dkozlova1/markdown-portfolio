@@ -1,3 +1,3 @@
-- [ ] cheese 
-- [ ] ice cream
+- [ ] *cheese*
+- [ ] **ice cream**
 - [ ] pasta
